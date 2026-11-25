@@ -363,7 +363,7 @@ O projeto acompanha um vídeo educativo de aproximadamente 10 minutos, produzido
 9. Análise de complexidade.
 10. Considerações finais.
 
-**Link do vídeo no YouTube:** [INSERIR LINK APÓS A PUBLICAÇÃO]
+**Link do vídeo no YouTube:** [https://youtu.be/Sb4ScbCJs_4]
 
 ---
 
